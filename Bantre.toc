@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Bantre
+## Author: ardren@exceptionallyaverage.net
+## Version: 6.2.3-1
+## Notes: Announce raid stuff
+## SavedVariablesPerCharacter: BantreSettings
+
+Bantre.lua
