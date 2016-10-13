@@ -1,6 +1,6 @@
 # Bantre
 
-Personal WoW addon.
+No longer maintained.
 
- * Basic raid CD spam
- * Reward LFG scanner
+Random Heroic and Rand Finder bonus loot functionality moved to:  https://github.com/mdavey/LookingForLoot
+
